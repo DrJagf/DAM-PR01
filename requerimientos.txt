@@ -1,6 +1,11 @@
 - Tienda (TPV = Terminal Punto Venta)
 => Clientes -> Si, pero.
-- Usuario - Factura => nombre, dni, direccion, telefono, email
+- Usuario - Factura 
+	=> nombre 
+	=>dni 
+	=>direccion 
+	=>telefono 
+	=>email
 - Cliente Contado - Ticket => ID_Ticket
 => Inventario
 - Categorias -> Producto->MN->Categorias
